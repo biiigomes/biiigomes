@@ -1,7 +1,5 @@
 ### <h1 align="center"> Bianca Gomes </h1> 
 
-<div class="width="40" height="40"">[octcat-bianca](https://user-images.githubusercontent.com/74786460/227525550-580d5259-97c2-4ba8-aead-29704cc3b012.png)</div>
-
 - 💬 Ask me about Technology, mythology and books
 - 📫 How to reach me: bibi.gomes.f@gmail.com or biiiagomes07@gmail.com
 - 😄 Pronouns: she/her
